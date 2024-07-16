@@ -1,9 +1,11 @@
 import './App.css'
+import RoutesApp from './routes'
 
 function App() {
 
   return (
-    <div>
+    <div className='app'>
+      <RoutesApp/>
       
     </div>
   )
